@@ -5,3 +5,4 @@ Repositório dos exercícios da Turma 33 do curso Fábrica de Programador da Hig
 ## Exercícios
 
  - [Classificador de triângulos](./classificador-triangulos/)
+ - [Frente de caixa](./frente-caixa/)
