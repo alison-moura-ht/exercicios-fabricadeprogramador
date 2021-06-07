@@ -1,8 +1,9 @@
-# Exercícios T33
+# Exercícios Fábrica de Programador
 
-Repositório dos exercícios da Turma 33 do curso Fábrica de Programador da High Tech Cursos.
+Repositório dos exercícios do curso Fábrica de Programador da High Tech Cursos.
 
 ## Exercícios
 
+ - [Formulário de Cadastro](./formulario-cadastro/)
  - [Classificador de triângulos](./classificador-triangulos/)
  - [Frente de caixa](./frente-caixa/)
